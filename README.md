@@ -7,7 +7,7 @@
   <a href="https://twitter.com/vvvebcms">Twitter</a> 
 </p>
 
-# Vvveb Dutch Language (fr_FR)
+# Vvveb French Language (fr_FR)
 
 Vvveb CMS translation for French language
 
